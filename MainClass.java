@@ -4,8 +4,9 @@ public class MainClass {
         hello.say("How do you do?");
         hello.setName("John");
         hello.setFamilyName("Jackson");
+        jjnk
         hello.sayToPerson("how do you do?", hello.getName());
         hello.getFamilyName();
-        ashahahahahashahahfgff
+     
     }
 }
